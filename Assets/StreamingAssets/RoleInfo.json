@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/1","atk":2,"tips":"A","lockMoney":0,"type":1,"hitEff":"eff/1"},
+{"id":2,"res":"Role/2","atk":3,"tips":"B","lockMoney":0,"type":2,"hitEff":"eff/1"},
+{"id":3,"res":"Role/3","atk":4,"tips":"C","lockMoney":200,"type":2,"hitEff":"eff/1"},
+{"id":4,"res":"Role/4","atk":5,"tips":"D","lockMoney":300,"type":2,"hitEff":"eff/1"},
+{"id":5,"res":"Role/5","atk":6,"tips":"E","lockMoney":400,"type":2,"hitEff":"eff/1"},
+{"id":6,"res":"Role/6","atk":7,"tips":"F","lockMoney":500,"type":2,"hitEff":"eff/1"}
+]

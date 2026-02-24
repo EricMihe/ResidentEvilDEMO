@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\object\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\data\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gamedatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\json\\jsonmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\json\\jsonmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\object\\monsterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\monsterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\monsterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\monsterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\towerpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\towerpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\gamelevelmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamelevelmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\ui\\towerbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\ui\\towerbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\object\\towerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\towerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\gamescene\\object\\maintowerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\object\\maintowerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\assets\\scripts\\beginscene\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\bkmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\beginscene\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\beginscene\\ui\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\ui\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|c:\\unitydemo\\residentevil\\residentevil\\assets\\scripts\\beginscene\\camera\\cameraanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\beginscene\\camera\\cameraanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\assets\\artres\\magicarsenal\\effects\\scripts\\magicrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8BEEE5-0560-FE01-1F49-004D20C82659}|Assembly-CSharp.csproj|solutionrelative:assets\\artres\\magicarsenal\\effects\\scripts\\magicrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 167,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameDataMgr.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameDataMgr.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:31:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:24:19.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\UI\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BasePanel.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\UI\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BasePanel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:23:10.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TowerPoint.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\TowerPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\TowerPoint.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\TowerPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\TowerPoint.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:22:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonsterPoint.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\MonsterPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\MonsterPoint.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\MonsterPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\MonsterPoint.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADgvzsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:22:11.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameLevelMgr.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameLevelMgr.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv2cAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:21:05.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TowerObject.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\TowerObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\TowerObject.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\TowerObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\TowerObject.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:18:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerObject.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\PlayerObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\PlayerObject.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\PlayerObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\PlayerObject.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:18:19.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterObject.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\MonsterObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\MonsterObject.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\MonsterObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\MonsterObject.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:17:12.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainTowerObject.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\MainTowerObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Object\\MainTowerObject.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\Object\\MainTowerObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Object\\MainTowerObject.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:16:52.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\UI\\SettingPanel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:16:09.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CameraAnimator.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\Camera\\CameraAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\Camera\\CameraAnimator.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\Camera\\CameraAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\Camera\\CameraAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:15:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\UI\\BeginPanel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:14:42.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TowerBtn.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\UI\\TowerBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:01:18.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\UI\\GamePanel.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAEwIkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:59:14.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BKMusic.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BeginScene\\BKMusic.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:59:34.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonMgr.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\Json\\JsonMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Json\\JsonMgr.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\Scripts\\Json\\JsonMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Json\\JsonMgr.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:33:38.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MagicRotation.cs",
+              "DocumentMoniker": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\ArtRes\\MagicArsenal\\Effects\\Scripts\\MagicRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\ArtRes\\MagicArsenal\\Effects\\Scripts\\MagicRotation.cs",
+              "ToolTip": "C:\\UnityDemo\\ResidentEvil\\ResidentEvil\\Assets\\ArtRes\\MagicArsenal\\Effects\\Scripts\\MagicRotation.cs",
+              "RelativeToolTip": "Assets\\ArtRes\\MagicArsenal\\Effects\\Scripts\\MagicRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:30:23.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

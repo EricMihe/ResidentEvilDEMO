@@ -1,0 +1,26 @@
+# Unity 官方 .gitignore 模板（简化版）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# 自动保存的 Visual Studio 文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
