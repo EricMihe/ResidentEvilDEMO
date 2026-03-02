@@ -59,7 +59,6 @@ public class ChooseScenePanel : BasePanel
             UIManager.Instance.ShowPanel<ChooseHeroPanel>();
         });
 
-        //一打开面板 初始化时 也应该把数据更新了
         ChangeScene();
     }
 

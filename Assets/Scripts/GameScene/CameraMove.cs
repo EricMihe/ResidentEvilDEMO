@@ -18,6 +18,12 @@ public class CameraMove : MonoBehaviour
     private Vector3 targetPos;
     private Quaternion targetRotation;
 
+    private void Start()
+    {
+       // UnityEngine.Cursor.lockState = CursorLockMode.Locked;
+        UnityEngine.Cursor.visible = false;
+    }
+
     // Update is called once per frame
     void Update()
     {

@@ -37,8 +37,6 @@ public class PlayerObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //2.移动变化 动作变化
-        //移动动作的变换 由于动作有位移  我们也应用了动作的位移  所以只要改变这两个值 就会有动作的变化 和 速度的变化
         animator.SetFloat("VSpeed", Input.GetAxis("Vertical"));
         animator.SetFloat("HSpeed", Input.GetAxis("Horizontal"));
         //旋转
